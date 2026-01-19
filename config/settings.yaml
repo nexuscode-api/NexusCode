@@ -1,0 +1,12 @@
+app:
+  name: "NexusCode AI"
+  version: "0.1.0-beta"
+  simulation_mode: true  # Set to 'false' to try actual API requests
+  
+network:
+  timeout: 10
+  retry_count: 3
+
+ui:
+  theme_color: "cyan"
+  refresh_rate: 10
