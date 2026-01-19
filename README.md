@@ -77,6 +77,6 @@ Navigate to the **[Releases](../../releases)** tab and download the executable f
 
 ---
 
-## shield: Disclaimer
+## ⚠️ Disclaimer
 
 *NexusCode is an experimental tool for aggregating open access points. We do not hack AI provider systems. We utilize publicly available or community-shared access keys. By using NexusCode, you agree that service availability is not guaranteed 24/7 and depends on the status of the "Community Pool".*
