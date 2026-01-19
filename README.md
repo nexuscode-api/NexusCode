@@ -14,14 +14,15 @@ Why pay for 5 different subscriptions when NexusCode aggregates them all? We pro
 
 Here is what is available in NexusCode (and what it usually costs):
 
-| Provider | Model (Top Tier) | Equivalent Subscription | Official Cost | NexusCode |
+| Provider | Model (Flagship Tier) | Equivalent Subscription | Official Cost | NexusCode |
 | --- | --- | --- | --- | --- |
-| **OpenAI** | **GPT-4o / o1-preview** | ChatGPT Plus / Team | **$20 - $30 / mo** | **$0** |
-| **Anthropic** | **Claude 3.5 Sonnet / Opus** | Claude Pro | **$20 / mo** | **$0** |
-| **Google** | **Gemini 1.5 Pro (Ultra)** | Gemini Advanced | **$19.99 / mo** | **$0** |
+| **OpenAI** | **o1 (o1-mini) / GPT-4o** | ChatGPT Plus / Team | **$20 - $200 / mo** | **$0** |
+| **Anthropic** | **Claude 3.5 Sonnet** | Claude Pro | **$20 / mo** | **$0** |
+| **Google** | **Gemini 1.5 Pro (002)** | Gemini Advanced | **$19.99 / mo** | **$0** |
+| **DeepSeek** | **DeepSeek-V3** | API Usage | **Pay-per-token** | **$0** |
 | **xAI** | **Grok 2** | X Premium+ | **$16 / mo** | **$0** |
-| **Perplexity** | **Sonar Online** | Perplexity Pro | **$20 / mo** | **$0** |
-| **Meta** | **Llama 3.1 405B** | Hosted API Providers | **Pay-per-token** | **$0** |
+| **Perplexity** | **Sonar Large (Online)** | Perplexity Pro | **$20 / mo** | **$0** |
+| **Meta** | **Llama 3.3 70B** | Hosted API | **Pay-per-token** | **$0** |
 
 > **Total Value:** You unlock access to tools worth over **$100/month** for free using a single CLI.
 
